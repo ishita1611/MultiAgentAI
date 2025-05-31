@@ -32,3 +32,4 @@ This project is a multi-agent AI system that accepts inputs in PDF, JSON, or Ema
 
 ## Screenshots
 Check `logs/` folder for output screenshots.
+
