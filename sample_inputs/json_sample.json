@@ -1,0 +1,24 @@
+{
+  "id": "INV-2025-2245",
+  "date": "2025-05-28",
+  "customer": "FashionHub Pvt Ltd",
+  "items": [
+    {
+      "product": "Custom Oversized Hoodie",
+      "quantity": 100,
+      "price": 899
+    },
+    {
+      "product": "Shipping & Logistics",
+      "quantity": 1,
+      "price": 2500
+    },
+    {
+      "product": "Branding Embroidery (setup fee)",
+      "quantity": 1,
+      "price": 1200
+    }
+  ],
+  "total_amount": 93400,
+  "notes": "Full payment due within 15 days. GSTIN: 24ABCDE1234F1ZV"
+}

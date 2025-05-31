@@ -1,0 +1,41 @@
+EMAIL
+
+0:"Email"
+1:"RFQ"
+2:{
+"sender":"megha@trendysuppliers.com"
+"intent":"RFQ"
+"urgency":"Normal"
+
+JSON
+
+0:"JSON"
+1:"Unknown"
+2:{
+"valid":true
+"missing_fields":[]
+"formatted_data":{
+"invoice_id":"INV-2025-2245"
+"invoice_date":"2025-05-28"
+"customer_name":"FashionHub Pvt Ltd"
+"line_items":[
+0:{
+"product":"Custom Oversized Hoodie"
+"quantity":100
+"price":899
+}
+1:{
+"product":"Shipping & Logistics"
+"quantity":1
+"price":2500
+}
+2:{
+"product":"Branding Embroidery (setup fee)"
+"quantity":1
+"price":1200
+}
+]
+"total":93400
+}
+}
+]
